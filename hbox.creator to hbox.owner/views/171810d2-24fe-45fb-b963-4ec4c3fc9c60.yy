@@ -1,0 +1,31 @@
+{
+    "id": "171810d2-24fe-45fb-b963-4ec4c3fc9c60",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "171810d2-24fe-45fb-b963-4ec4c3fc9c60",
+    "children": [
+        "5469204e-6e8f-4c84-8be3-2c99bb2e1be7",
+        "824ee2ef-4f99-4ffd-91b1-7673646361b8",
+        "9823e0b8-b626-46fd-b10c-c4ecb02466d2",
+        "a32df78a-fe47-423a-ab44-2d804b8b8282",
+        "e26e27fd-ede1-4ec1-b90a-b3e3bfa260f2",
+        "c3aa210f-7661-4518-8ee5-f2034abbad12",
+        "3b5c8542-5563-4996-b1a9-de55fad0c32a",
+        "971daedf-3c3b-4099-9358-5fbf6d21bb2d",
+        "a4f98d0a-ce66-414c-9004-ea1bb0e1fd5f",
+        "de938a4d-9f09-4af7-a69c-4bc46ee6a0a7",
+        "380b6023-cd9c-45c1-8b5c-7446570424b6",
+        "7396f494-12a1-42b1-829f-bbda0e3edcc4",
+        "acc0fe60-da59-4433-afe4-af2e2455e602",
+        "ffc13025-a714-44d1-b149-b8f5a5c65e4c",
+        "8a54f1e1-f6c9-40b0-92f6-b18a469ba35a",
+        "2f4979e9-c109-4659-a61a-9424a48d785f",
+        "1105e722-3389-4a9f-aa1f-2d22322e7d20",
+        "b9adbd84-d12a-4c0f-81a0-560a6a52835f",
+        "3acfe697-901d-43d9-baae-2a5fd174562e"
+    ],
+    "filterType": "GMScript",
+    "folderName": "STATES",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
